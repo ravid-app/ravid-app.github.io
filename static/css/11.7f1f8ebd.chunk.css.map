@@ -1,0 +1,1 @@
+{"version":3,"sources":["Name.module.scss"],"names":[],"mappings":"AACC,0BADD,kBAEE,qBAAuB,CAExB","file":"11.7f1f8ebd.chunk.css","sourcesContent":[".name {\r\n\t@media (min-width: 1024px) {\r\n\t\twidth: 405px !important;\r\n\t}\r\n}\r\n"]}
